@@ -20,7 +20,7 @@
 - [任务十三：面向零基础的JavaScript代码编写（一），难度简单。对JS、事件、DOM有个初体验](task_13/index.html)
 - [任务十四：面向零基础的JavaScript代码编写（二），难度简单。对JS的判断、循环、数组等有个初体验](task_14/index.html)
 - [任务十五：面向零基础的JavaScript代码编写（三），难度简单。继续熟悉JavaScript](task_15/index_15.html)
-- 任务十六：面向零基础的JavaScript代码编写（四），难度中等。学习事件代理、表单验证等
+- [任务十六：面向零基础的JavaScript代码编写（四），难度中等。学习事件代理、表单验证等](task_16/index_16.html)
 - 任务十七：面向零基础的JavaScript代码编写（五），难度中等。做一个较为完成的有JavaScript交互的页面
 - 任务十八：基础JavaScript练习（一），难度简单。实现一个基本队列的相关操作
 - 任务十九：基础JavaScript练习（二），难度简单。丰富队列操作，实现一个排序算法的可视化呈现
